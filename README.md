@@ -10,7 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMardonesAlvarez&theme=synthwave&layout=compact"/>
 </div>
 
-## Languages and tools
+## Frameworks, languages and tools
 
 <div align=center>
 
