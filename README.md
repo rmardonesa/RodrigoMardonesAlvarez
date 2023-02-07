@@ -4,7 +4,7 @@
 
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMardonesAlvarez&theme=synthwave&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMardonesAlvarez&theme=synthwave"/>
 </div>
 
 ### Frameworks, languages and tools
