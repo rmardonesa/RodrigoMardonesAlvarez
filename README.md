@@ -1,3 +1,4 @@
+
 <div align=center>
 
   <!--img src="https://github-readme-stats.vercel.app/api?username=rodrigomardonesalvarez&show_icons=true&theme=synthwave&hide=stars,issues"/><br-->
@@ -5,6 +6,11 @@
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMardonesAlvarez&theme=synthwave"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoMardonesAlvarez&theme=radical"/>
+  
+  
+  
 </div>
 
 ### Frameworks, languages and tools
@@ -29,7 +35,6 @@
 
 <div align=center>
 
-  <br><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoMardonesAlvarez&theme=synthwave&line_height=40&layout=compact"/> </a> <br>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoMardonesAlvarez&theme=tokyonight&exclude=commits"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoMardonesAlvarez&theme=radical&utcOffset=-4"/> 
 </div>
 
