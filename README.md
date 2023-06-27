@@ -35,6 +35,6 @@
 
 <div align=center>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoMardonesAlvarez&theme=tokyonight&exclude=commits"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoMardonesAlvarez&theme=radical&utcOffset=-4"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoMardonesAlvarez&theme=tokyonight&exclude=commits"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoMardonesAlvarez&theme=github_dark&utcOffset=-4"/> 
 </div>
 
