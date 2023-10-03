@@ -5,7 +5,7 @@
 
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMardonesAlvarez&theme=synthwave"/>
+  <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMardonesAlvarez&theme=synthwave"/-->
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoMardonesAlvarez&theme=radical"/>
   
