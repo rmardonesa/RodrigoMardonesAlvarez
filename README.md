@@ -38,6 +38,6 @@
 
 <div align=center>
 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoMardonesAlvarez&theme=2077&utcOffset=-4"/> 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmardonesa&theme=2077&exclude=CSS"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmardonesa&theme=2077&utcOffset=-4"/> 
 </div>
 
