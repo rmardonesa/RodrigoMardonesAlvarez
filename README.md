@@ -33,9 +33,6 @@
   
 </div>
 
-<!--img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoMardonesAlvarez&theme=tokyonight&exclude=commits"/-->
-<!--img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoMardonesAlvarez&theme=2077&exclude=CSS"/-->
-
 <div align=center>
 
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmardonesa&theme=2077&exclude=CSS"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmardonesa&theme=2077&utcOffset=-4"/> 
